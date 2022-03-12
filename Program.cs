@@ -9,7 +9,7 @@
             {"Alpukat", "C00"},
             {"Pisang", " D00"},
             {"Paprika", "E00"},
-            {"Blackberry","F00"},
+            {"Blackberry", "F00"},
             {"Ceri", "   H00"},
             {"Kelapa", " I00"},
             {"Jagung", " J00"},
